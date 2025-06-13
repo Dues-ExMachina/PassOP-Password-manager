@@ -20,6 +20,6 @@ A secure and lightweight password manager built using React and Node.js. Easily 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/password-manager.git
+git clone [https://github.com/your-username/password-manager.git]
 cd passop
 npm install
