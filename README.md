@@ -1,12 +1,25 @@
-# React + Vite
+# 🔐 PassOP Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A secure and lightweight password manager built using React and Node.js. Easily add, view, copy, and delete passwords with a clean UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new passwords with custom labels
+- Mask or unmask passwords in the table
+- Copy password to clipboard with a click
+- Delete password entries
+- Data stored securely with backend integration
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Frontend)
+- Node.js (Backend)
+- Tailwind CSS
+- LocalStorage (temporary storage)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/password-manager.git
+cd passop
+npm install
