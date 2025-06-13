@@ -11,7 +11,7 @@ const Footer = () => {
                 </h1>
             </div > */}
             <div className='flex gap-1 items-center p-2'>
-                Created with span <img className='w-5' src="/icons/love.svg" alt="love" /> by DuesExMachina
+                Created with <img className='w-5' src="/icons/love.svg" alt="love" /> by DuesExMachina
             </div>
         </div>
     )
